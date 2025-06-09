@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Dan Truong</h1>
-<h3 align="center">🚀 Passionate about Applied Mathematics | Inequality Problems | Data Science | Data engineering | AI</h3>
+<h3 align="center">🚀 Passionate about Applied Mathematics | Astronomy | Inequality Problems | Data Science | Data engineering | AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sydan271&label=Profile%20views&color=0e75b6&style=flat" alt="sydan271" /> </p>
 
